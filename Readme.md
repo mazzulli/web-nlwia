@@ -40,6 +40,3 @@ Criar as pastas para organizar os arquivos do projeto
 
 `styles`
 
-
-
-
