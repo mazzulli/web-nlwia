@@ -3,11 +3,15 @@
 
 ## CONCURSO DA CAMISETA
 
+
 Palavra chave 1: INTELIGÊNCIA
+
 
 Palavra chave 2: ?
 
+
 Palavra chave 3: ?
+
 
 
 ## CONFIGURAÇÃO DO PROJETO
