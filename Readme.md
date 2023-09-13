@@ -7,14 +7,22 @@
 Palavra chave 1: INTELIGÊNCIA
 
 
+<<<<<<< HEAD
 Palavra chave 2: OPORTUNIDADE
+=======
+Palavra chave 2: ?
+>>>>>>> 41c11261b95129d171a046645e03219f362ddc7b
 
 
 Palavra chave 3: ?
 
 
 
+<<<<<<< HEAD
 ## CONFIGURAÇÃO DO PROJETO WEB
+=======
+## CONFIGURAÇÃO DO PROJETO
+>>>>>>> 41c11261b95129d171a046645e03219f362ddc7b
 
 Criar a pasta do projeto: www/nlw
 
